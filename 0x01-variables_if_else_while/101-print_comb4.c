@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- *main - print all possible combination of three digits separeted by , followed by space
+ *main - print combination of three digits
  *Return: Always 0 (Success)
  */
 

@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- *main -  print all possible different combinations of two digits separeted by ,
+ *main -  print different combinations of two digits separeted by ,
  * Return: Always 0 (Success)
  */
 
