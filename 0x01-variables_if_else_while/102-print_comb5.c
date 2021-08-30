@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- *main - prints all possible combinations of two two-digit numbers in ascending order separated by , followed by space
+ *main - prints all possible combinations of two two-digit numbers separated by , followed by space
  *Return: Always 0 (Success)
  */
 
@@ -26,7 +26,7 @@ int main(void)
 					putchar(t);
 					putchar(o);
 
-					if (!((tens == '9' && ones == '8') && (t == '9' && o== '9')))
+					if (!((tens == '9' && ones == '8') && (t == '9' && o == '9')))
 					{
 						putchar(',');
 						putchar(' ');

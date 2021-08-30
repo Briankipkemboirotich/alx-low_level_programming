@@ -2,7 +2,7 @@
 
 /**
  *main - print numbers 0-10
- *return: Always 0 (Success)
+ *Return: Always 0 (Success)
  */
 
 int main(void)
