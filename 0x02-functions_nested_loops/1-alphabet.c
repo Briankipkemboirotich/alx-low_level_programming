@@ -1,14 +1,14 @@
 #include "main.h"
 
 /**
- * print _alphabet - Print in lowercase
+ * print_alphabet - Print in lowercase
  *
  * Return: void
  */
 
 void print_alphabet(void)
 {
-        char alpha;
+	char alpha;
 
 	alpha = 'a';
 
