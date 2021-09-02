@@ -7,9 +7,10 @@
 
 int print_line(int n)
 {
-	char c;
+	int times = n;
 
-	for (c = 0; c < n; c++)
-		_putchar('_');
+	for (times = n; times > 0; times --)
+		_putchar('-');
+
 	_putchar('\n');
 }
