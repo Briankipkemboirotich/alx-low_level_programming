@@ -30,7 +30,7 @@ void print_number(int n)
 		{
 			digit = positive / tens;
 			_putchar(digit + '0');
-			positive = (positve - (tens * digit));
+			positive = (positive - (tens * digit));
 			tens /= 10;
 		}
 	}

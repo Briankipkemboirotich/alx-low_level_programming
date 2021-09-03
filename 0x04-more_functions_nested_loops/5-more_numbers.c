@@ -4,7 +4,7 @@
  * more_numbers - print 10 times the number, from 10 - 14
  */
 
-int more_numbers(void)
+void more_numbers(void)
 {
 	int i;
 	char c;
