@@ -5,10 +5,9 @@
  *Return:  
  */
 
-char *leet(char)
+char *leet(char *n)
 {
 	int i, j;
-	char n;
 	char s1[] = "aAeEoOtTlL";
 	char s2[] = "4433007711";
 
