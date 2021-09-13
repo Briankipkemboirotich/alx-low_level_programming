@@ -1,0 +1,1 @@
+School project involving more pointers, strings and arrays
