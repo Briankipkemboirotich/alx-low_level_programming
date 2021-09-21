@@ -8,7 +8,7 @@
  *Return: pointer to an array or null
  */
 
-char *create_array(char unsigned int size, char c)
+char *create_array(unsigned int size, char c)
 {
 	char *str;
 	unsigned int i;
