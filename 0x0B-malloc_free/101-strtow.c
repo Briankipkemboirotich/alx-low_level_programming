@@ -1,5 +1,5 @@
 #include "main.h"
-#include <stldib.h>
+#include <stdlib.h>
 
 /**
  * wordCounterRec - count num recursively
