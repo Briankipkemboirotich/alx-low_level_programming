@@ -60,7 +60,7 @@ char **strtow(char *str)
 			strDup[i] = malloc(sizeof(char) * (n + 1));
 			if (strDup[i] == NULL)
 			{
-				while (--i > = 0)
+				while (--i >= 0)
 					free(strDup[--i]);
 				free(strDup);
 				return (NULL);

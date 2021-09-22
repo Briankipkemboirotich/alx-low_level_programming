@@ -37,6 +37,6 @@ char *str_concat(char *s1, char *s2)
 		strDup[i] = s2[j];
 		i++, j++;
 	}
-	strDup[i] != '\0';
-	return = (strDup);
+	strDup[i] = '\0';
+	return (strDup);
 }
