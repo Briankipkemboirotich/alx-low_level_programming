@@ -1,0 +1,1 @@
+School project involving Structures and typedef in C
