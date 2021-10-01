@@ -1,0 +1,1 @@
+School task involving functions and pointers in C
