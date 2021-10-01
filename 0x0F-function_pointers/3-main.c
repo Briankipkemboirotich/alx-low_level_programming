@@ -36,5 +36,4 @@ int main(int argc, char *argv[])
 		}
 		printf("%d\n", f(n1, n2));
 		return(0);
-		}
 }
